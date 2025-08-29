@@ -7,9 +7,9 @@
 [![Community Driven](https://img.shields.io/badge/Community-Driven-blue.svg)](https://github.com/chrisurf/infragents-ui)
 
 
-Welcome to **InfrAgents** — the global hub for discovering, sharing, and advancing **Infrastructure Agents**.
+Welcome to **InfrAgents** — the global community platform for discovering, sharing, and advancing Infrastructure Agents.
 
-**Main Entry Point:** Visit [infragents.com](https://infragents.com/) to explore the platform, discover agents, and access all features.
+👉 Start at [infragents.com](https://infragents.com/) to explore the platform, browse agents, and access all available features.
 
 **About this GitHub Repository:**
 This repository is primarily for raising issues, requesting changes, collaborating, and developing the InfrAgents project. Feature requests, bug reports, and contributions are welcome here.
