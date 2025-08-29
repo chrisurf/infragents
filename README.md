@@ -46,19 +46,48 @@ We strive to:
 
 ---
 
+## 🤝 How to Contribute
+
+
+**Currently in Alpha** — we welcome contributions to shape the future of **agentic infrastructure**!
+
+**Collaboration & Development:**
+Use this GitHub repository to:
+- Raise issues and bug reports
+- Request new features or changes
+- Collaborate on development
+- Discuss ideas and improvements
+
+### 📝 Submitting Agents
+1. **Visit** [infragents.com](https://infragents.com/) *(main entry point)*
+2. **Submit** a GitHub repo for AI-powered analysis
+3. **Watch** as the platform validates and categorizes your submission
+4. **Share** with the global community
+
+### 📋 What Makes a Great Infrastructure Agent
+- ✅ Clear purpose & documented use cases  
+- ✅ AI/ML or intelligent reasoning components  
+- ✅ Open-source license (MIT preferred)  
+- ✅ Strong documentation & examples  
+- ✅ Security-conscious design  
+- ✅ Built for reuse & collaboration  
+
+---
+
 ## 🛠️ Project Overview
 
 ### 🌐 Platform Features
 The **[infragents.com](https://infragents.com/)** portal currently offers:  
 
-- ✅ **Agent Discovery**: Browse, search, and filter agents across competencies  
-- ✅ **AI-Powered Submission**: GitHub repo analysis with Claude 3.5 Haiku  
-- ✅ **Smart Validation**: Multi-stage AWS Lambda pipeline ensuring quality  
-- ✅ **Real-time Feedback**: Submission progress updates  
-- ✅ **Competency Filtering**: 13 specialized categories (Deployment, Security, Monitoring, etc.)  
-- ✅ **Community Features**: Likes, view tracking, and engagement  
-- ✅ **Open Access**: No registration required — open to everyone  
-- ✅ **Responsive Design**: Mobile-first with light/dark themes  
+
+✅ **Agent Discovery**: Browse, search, and filter agents across competencies  
+✅ **AI-Powered Submission**: GitHub repo analysis using advanced AI models  
+✅ **Smart Validation**: Multi-stage AWS Lambda pipeline ensuring quality  
+✅ **Real-time Feedback**: Submission progress updates  
+✅ **Competency Filtering**: 13 specialized categories (Deployment, Security, Monitoring, etc.)  
+✅ **Community Features**: Likes, view tracking, and engagement  
+✅ **Open Access**: No registration required — open to everyone  
+✅ **Responsive Design**: Mobile-first with light/dark themes  
 
 ---
 
@@ -81,34 +110,6 @@ We organize Infrastructure Agents across **13 core domains**:
 | **Storage** | Backup & recovery |
 | **Infrastructure as Code** | Terraform, Pulumi, CDK |
 | **Disaster Recovery** | Failover & continuity |
-
----
-
-## 🤝 How to Contribute
-
-
-**Currently in Alpha** — we welcome contributions to shape the future of **agentic infrastructure**!
-
-**Collaboration & Development:**
-Use this GitHub repository to:
-- Raise issues and bug reports
-- Request new features or changes
-- Collaborate on development
-- Discuss ideas and improvements
-
-### 📝 Submitting Agents
-1. **Visit** [infragents.com](https://infragents.com/) *(main entry point)*
-2. **Submit** a GitHub repo for AI-powered analysis
-3. **Watch** our Claude pipeline validate & categorize it
-4. **Share** with the global community
-
-### 📋 What Makes a Great Infrastructure Agent
-- ✅ Clear purpose & documented use cases  
-- ✅ AI/ML or intelligent reasoning components  
-- ✅ Open-source license (MIT preferred)  
-- ✅ Strong documentation & examples  
-- ✅ Security-conscious design  
-- ✅ Built for reuse & collaboration  
 
 ---
 
