@@ -27,13 +27,28 @@ These agents leverage **AI, machine learning, and advanced reasoning** to:
 - **Orchestrate Dynamically**: Manage cloud and on-premises systems in real time
 - **Enforce Governance**: Secure, compliant, and policy-driven by design
 - **Optimize Continuously**: Improve cost, performance, and reliability without manual intervention
-- **Collaborate Intelligently**: Work with other agents to align infrastructure with organizational objectives
+- **Collaborate Intelligently**: Work with other agents to align infrastructure with organizational objectives  
 
 ---
 
-## 🎯 Our Mission
+## � What are Infrastructure Agents?
 
-The aim of InfrAgents is to become the **global community platform** where engineers, DevOps teams, and researchers can explore and advance **agentic infrastructure**.
+Infrastructure Agents are autonomous or semi-autonomous software entities that bridge human intent and machine execution to manage cloud and on-premises infrastructure. Leveraging artificial intelligence, machine learning, and advanced reasoning, they interpret high-level business goals or declarative configurations, dynamically generate and execute infrastructure code (e.g., IaC), and continuously monitor system state to perform real-time remediation and optimization.
+
+Beyond operational automation, they coordinate multi-agent collaboration, abstract away the complexity of diverse APIs and tooling, and embed governance to enforce security, compliance, and organizational policies. By aligning infrastructure behavior with strategic objectives, Infrastructure Agents evolve traditional automation into a self-optimizing, intelligent paradigm that ensures efficiency, reliability, and adaptability at scale.
+
+## 🚀 The Vision: From IaC to IaA
+
+We're witnessing a paradigm shift from Infrastructure as Code (IaC) to Infrastructure as Agents (IaA):
+
+**IaC**: Static, declarative configurations requiring human intervention  
+**IaA**: Dynamic, autonomous systems that interpret intent and adapt continuously  
+
+InfrAgents Portal serves as the global hub for this transformation, fostering open collaboration and responsible innovation in agentic infrastructure.
+
+---
+
+## �🎯 Our MissionThe aim of InfrAgents is to become the **global community platform** where engineers, DevOps teams, and researchers can explore and advance **agentic infrastructure**.
 
 We strive to:
 
