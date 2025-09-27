@@ -19,7 +19,7 @@ We believe the future of infrastructure is not static YAML, but **autonomous, in
 
 ## 🌟 What is InfrAgents?
 
-**InfrAgents** is a community-driven discovery platform for **Infrastructure Agents**—autonomous software entities that evolve Infrastructure as Code (IaC) into **Infrastructure as Agents (IaA)**.
+**InfrAgents** is a open source community-driven discovery platform for **Infrastructure Agents**—autonomous software entities that evolve Infrastructure as Code (IaC) into **Infrastructure as Agents (IaA)**.
 
 These agents leverage **AI, machine learning, and advanced reasoning** to:
 
@@ -31,7 +31,7 @@ These agents leverage **AI, machine learning, and advanced reasoning** to:
 
 ---
 
-## � What are Infrastructure Agents?
+## 🤖 What are Infrastructure Agents?
 
 Infrastructure Agents are autonomous or semi-autonomous software entities that bridge human intent and machine execution to manage cloud and on-premises infrastructure. Leveraging artificial intelligence, machine learning, and advanced reasoning, they interpret high-level business goals or declarative configurations, dynamically generate and execute infrastructure code (e.g., IaC), and continuously monitor system state to perform real-time remediation and optimization.
 
@@ -48,7 +48,7 @@ InfrAgents Portal serves as the global hub for this transformation, fostering op
 
 ---
 
-## �🎯 Our MissionThe aim of InfrAgents is to become the **global community platform** where engineers, DevOps teams, and researchers can explore and advance **agentic infrastructure**.
+## 🎯 Our MissionThe aim of InfrAgents is to become the **global community platform** where engineers, DevOps teams, and researchers can explore and advance **agentic infrastructure**.
 
 We strive to:
 
@@ -67,10 +67,10 @@ We strive to:
 **Collaboration & Development:**
 Use this GitHub repository to:
 
-- Raise issues and bug reports
-- Request new features or changes
-- Collaborate on development
-- Discuss ideas and improvements
+- Raise [issues](https://github.com/chrisurf/infragents/issues) and bug reports
+- Request new [features](https://github.com/chrisurf/infragents/issues) or changes
+- [Collaborate](https://github.com/chrisurf/infragents/discussions) on development
+- [Discuss](https://github.com/chrisurf/infragents/discussions) ideas and improvements
 
 ### 📝 Submitting Agents
 
